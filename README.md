@@ -28,5 +28,7 @@ Feel free to reach out to discuss any web development projects, collaborations, 
 📫 Contact:
 
 Email: [ raviprakashprajapati445@gmail.com ]
+
 LinkedIn: [ https://www.linkedin.com/in/raviprakashprajapati123/ ]
+
 Personal Website: [ https://raviprakashprajapati.netlify.app/ ]
