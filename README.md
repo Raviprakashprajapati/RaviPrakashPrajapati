@@ -5,17 +5,28 @@ Hello, I'm RAVI PRAKASH PRAJAPATI!
 🌐 Skills:
 
 HTML5, CSS3, JavaScript (ES6+)
+
 React.js, Redux
+
 Node.js, Express.js, RESTful APIs
+
 MongoDB, MySQL
+
 Git, GitHub
+
 🔭 Experience:
 
+
 Developed responsive and user-friendly web applications using HTML, CSS, and JavaScript.
+
 Built interactive and dynamic front-end interfaces with React.js, handling state management with Redux.
+
 Created server-side applications using Node.js and Express.js, implementing RESTful APIs.
+
 Worked with various databases, including MongoDB for NoSQL data storage and MySQL for relational databases.
+
 Collaborated on team projects using Git for version control and GitHub for code collaboration.
+
 📚 Education:
 
 currently 2nd year student in Bachelor of Computer Application (ccs university)
