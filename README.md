@@ -30,6 +30,7 @@ Collaborated on team projects using Git for version control and GitHub for code 
 📚 Education:
 
 currently 2nd year student in Bachelor of Computer Application (ccs university)
+
 💼 Portfolio: Check out my portfolio website [ https://raviprakashprajapati.netlify.app/ ] for more information about my projects and code samples.
 
 🎯 Interests: Apart from coding, I enjoy video editing and making coding related videoes on social media.
