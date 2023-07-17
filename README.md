@@ -6,13 +6,13 @@ Hello, I'm RAVI PRAKASH PRAJAPATI!
 
 HTML5, CSS3, JavaScript (ES6+)
 
-React.js, Redux
+✅ React.js, Redux
 
-Node.js, Express.js, RESTful APIs
+✅ Node.js, Express.js, RESTful APIs
 
-MongoDB, MySQL
+✅ MongoDB, MySQL
 
-Git, GitHub
+✅ Git, GitHub
 
 🔭 Experience:
 
