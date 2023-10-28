@@ -1,10 +1,14 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 ## Hello 🙏, I'm RAVI PRAKASH PRAJAPATI
 ## Full Stack Developer 👨‍💻
-
-
 ## MyPortfolio <a href="https://raviprakashprajapati.netlify.app/"><img src="https://img.shields.io/badge/portofolio-%23E4405F.svg?&style=for-the-badge&logo=MyPortfolio&logoColor=white"/></a>
+
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+
+
+
 
 [![](https://img.shields.io/badge/LinkedIn-raviprakashprajapati123-blue)](https://www.linkedin.com/in/raviprakashprajapati123/)
 [![](https://img.shields.io/badge/Gmail-raviprakashprajapati445@gmail.com-red)](mailto:raviprakashprajapati445@gmail.com)
