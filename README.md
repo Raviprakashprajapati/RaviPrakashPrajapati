@@ -26,7 +26,14 @@ I'm RAVI! I'm a **BCA final year student** looking for a great opportunity in  *
 <br>
 <table>
 <tbody>
+  
  <tr>
+
+ <td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/reactnative.png"> 
+</td>
+   
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
