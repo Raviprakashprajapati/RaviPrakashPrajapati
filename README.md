@@ -49,10 +49,7 @@ I'm RAVI! I'm a **BCA final year student** looking for a great opportunity in  *
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
+
 
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
@@ -71,6 +68,10 @@ I'm RAVI! I'm a **BCA final year student** looking for a great opportunity in  *
 </tr>
 
 <tr>
+  <td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
 <td align="center" width="20%">
 <span><b><center>Bootstrap</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/bootstrap.png"> 
