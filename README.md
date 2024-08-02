@@ -17,7 +17,7 @@
 
 
 
-I'm RAVI! I'm a **BCA final year student** looking for a great opportunity in  **IT sector**:earth_asia:. I'm passionate about making **Fronted and Backend Site** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm RAVI! I'm a **Software Developer at IT Company**   :earth_asia:. I'm passionate about making **Fronted and Backend Site** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
   
   
